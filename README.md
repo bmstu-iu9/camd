@@ -1,2 +1,3 @@
-# camd
-Molecular Modeling and Computer-Aided Molecular Design
+# CAMD
+
+Учебные материалы по дисциплине &laquo;Молекулярное моделирование и молекулярное конструирование&raquo;
